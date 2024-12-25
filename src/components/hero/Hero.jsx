@@ -20,14 +20,14 @@ export default function Hero() {
     <div className='flex justify-center'>
         <a href={CV} download> 
             <button className='inline-flex text-white bg-purple-500 border-0 py-3 px-8 focus:outline-none hover:bg-purple-600 hover:shadow-[0_0_40px_teal] rounded-full text-lg'>
-                Download CV
+                Download my resume
             </button>
         </a>
     </div>
 </div>
 
 
-<div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6 ml-auto'>
+<div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mx-auto'>
     <img src={img} alt="hero" className='object-cover object-center border-2 border-purple-400 shadow-[0_0_15px_teal] border-opacity-60 rounded-full w-80 h-80' />
 </div>
 
