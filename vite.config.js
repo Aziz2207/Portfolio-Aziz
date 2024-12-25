@@ -6,6 +6,5 @@ export default defineConfig({
   base: '/Portfolio-Aziz/', 
   build: {
     outDir: 'dist', 
-    assetsDir: 'assets', 
   },
 });
