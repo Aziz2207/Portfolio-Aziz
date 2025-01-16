@@ -14,21 +14,24 @@ export default function Skills() {
                     <h2 className='text-xl font-semibold mb-2 text-teal-300'>Programming Languages</h2>
                     <p className='leading-relaxed text-base'>
                         <strong>Proficient:</strong> C++, Python, JavaScript/TypeScript, HTML, CSS<br/>
-                        <strong>Familiar:</strong> SQL, Java, C
+                        <strong>Familiar:</strong> Java, C, Assembly
+                        and SQL
                     </p>
                 </div>
 
                 <div className='mb-6'>
                     <h2 className='text-xl font-semibold mb-2 text-teal-300'>Mathematics</h2>
                     <p className='leading-relaxed text-base'>
-                        Calculus, Probability and Statistics, Linear Algebra, Machine Learning
+                    Discrete mathematics, Calculus, Probability and Statistics, Linear Algebra, Machine Learning (Regression,
+                        Optimization, Regularization, Model Selection, Classification, Neural Networks)
                     </p>
                 </div>
 
                 <div className='mb-6'>
                     <h2 className='text-xl font-semibold mb-2 text-teal-300'>Other Technical Skills</h2>
                     <p className='leading-relaxed text-base'>
-                        Source control via Git, MVC architecture, Agile development, UML software design patterns
+                    Data analysis, Source Control via Git, MVC Architecture, Agile development, Software Design, Operating
+                    Systems Kernels, Data Structures and Algorithms.
                     </p>
                 </div>
 

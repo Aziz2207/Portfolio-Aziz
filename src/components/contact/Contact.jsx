@@ -17,7 +17,7 @@ export default function Contact() {
         <div className='mt-12 text-center'>
           <h3 className='text-xl font-medium text-white'>Links</h3>
           <div className='flex justify-center mt-4 space-x-6'>
-            <a href='https://github.com/Aziz2207?tab=repositories' target='_blank' rel='noopener noreferrer' className='text-gray-300 hover:text-teal-400 text-3xl'>
+            <a href='https://github.com/Aziz2207' target='_blank' rel='noopener noreferrer' className='text-gray-300 hover:text-teal-400 text-3xl'>
               <FaGithub />
             </a>
             <a href='https://www.linkedin.com/in/aziz-hidri-648600229/' target='_blank' rel='noopener noreferrer' className='text-gray-300 hover:text-teal-400 text-3xl'>
